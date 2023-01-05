@@ -1,0 +1,16 @@
+- name: C#
+  percentage: 95
+  color: success
+
+- name: .NET Core
+  percentage: 85
+  color:
+
+- name: Javascript
+  percentage: 75
+  color:
+
+- name: SQL
+  percentage: 70
+  color:
+
