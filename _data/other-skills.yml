@@ -1,5 +1,5 @@
 - name: Azure
-  percentage: 75
+  percentage: 65
   color: success
 
 - name: Agile 
